@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Ninad
+ * @author Mukesh Kumar Sunder
  */
 public class TTT {
     int m_nrRows;
