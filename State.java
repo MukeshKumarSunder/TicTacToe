@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Ninad
+ * @author Mukesh Kumar Sunder
  */
 public class State {
     char[] state;
